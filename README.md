@@ -1,0 +1,4 @@
+modString
+=========
+
+String Functions
